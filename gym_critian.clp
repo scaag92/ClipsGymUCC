@@ -19,7 +19,7 @@
       (assert (Nombre (read)))
       (printout t "Ingrese su Edad:       " crlf)
       (assert (Edad (read)))
-      (printout t "Ingrese su Estatura:   " crlf)
+      (printout t "Ingrese su Estatura(MTS):   " crlf)
       (assert (est (read)))
       (printout t "Ingrese su Peso (KG)   :" crlf)
       (assert (peso (read)))
