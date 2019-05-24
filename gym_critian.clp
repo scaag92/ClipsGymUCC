@@ -10,6 +10,8 @@
 ;-- basicos del usuario          -- 
 ;----------------------------------
 
+(clear)
+
 (defrule datos
       (initial-fact)
 =>
@@ -30,7 +32,10 @@
       (printout t "Adelgazar  (A)" crlf)
       (printout t "Aumentar   (S)" crlf)
       (assert (objetivo (read)))
-      (printout t "Restricción: Ninguna (N), Espalda(E), Rodilla (R)" crlf)
+      (printout t "Restriccion: Ninguna (N), Espalda(E), Rodilla (R)" crlf)
+      (printout t "Ninguna    (N)" crlf)
+      (printout t "Espalda    (E)" crlf)
+      (printout t "Rodilla    (R)" crlf)
       (assert (restric (read)))
       )
 
