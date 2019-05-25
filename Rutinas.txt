@@ -106,16 +106,47 @@ EJERCICIO												REP		SERIES
 
 
 
+Dia 3 (CORE)								
+EJERCICIO												REP		SERIES
+1. Skipping 30grados											6
+2. Abdomen bajo											20		3
+3. Abdomen alto											20		3
+4. Skipping 30grados											6
+5. Oblicuos												20		3
+6. Dorsales												20		3
+7. Burpes												10		4
+8. Planchas 1 min 												5
+9. Cardio 10 min										
+10.Elongacion muscular
 
 
 
+Dia 4 (GLUTEOS)								
+EJERCICIO												REP		SERIES
+1. Tijeras con prensas rusas							15 		3
+2. Patada atras con polea baja							15		3
+3. Elevacion de pelvis con Peso 	 					15		3
+4. Prensa con piernas juntas							15		3
+5. Smith con piernas juntas								15		3
+6. Salto al cajon 										10		4
+7. Sentadilla con mancuernas en colchoneta				15		3
+8. Cardio 10 min										
+9. Elongacion muscular
 
 
 
-
-
-
-
+Dia 5 (SUPERIOR ESPALDA)								
+EJERCICIO												REP		SERIES
+1. Remo con mancuernas									15		3
+2. Remo con polea media altura 							15		3
+3. Burpees												10		4
+4. Elevacion de Piernas (Abdomen)	 	 				15		3
+5. Peso muerto espalda 		 							15		3
+6. Jump and jacks 										50		4
+7. Jalon con polea alta 								15		3
+8. Abdomen 												20		4
+9. Cardio 10 min										
+10.Elongacion muscular
 
 
 
